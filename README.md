@@ -19,7 +19,7 @@
 	        (new Image()).src = '//stat.radar.imgsmail.ru/update?p=splash&t=TNSgt500ms&v=' + loadTime;
 	      } else if (sec >= 1 && sec < 5) {
 	        (new Image()).src = '//stat.radar.imgsmail.ru/update?p=splash&t=TNSgt1&v=' + loadTime;
-	      } else if (sec >= 5 && sec < 10 ) {
+	      } else if (sec >= 5 && sec < 10 ) {fff
 	        (new Image()).src = '//stat.radar.imgsmail.ru/update?p=splash&t=TNSgt5&v=' + loadTime;
 	      } else if (sec >= 10) {
 	        (new Image()).src = '//stat.radar.imgsmail.ru/update?p=splash&t=TNSgt10&v=' + loadTime;
