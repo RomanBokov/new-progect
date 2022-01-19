@@ -3,6 +3,7 @@
 				 	mr.counter('d703055, d33772932')
 				 	xray.send('hit_top', { i: ['split_945'] })
 				 </script> <div class="zeropixel"> 	<!-- Counter (SLOT:4015) --> 	<script nonce="">
+
 	(function () {
 	  try {
 	    var tnsCounter = new Image(), tnsStartLoad = (new Date()).getTime();
@@ -12,6 +13,7 @@
 	      var loadTime = (new Date()).getTime() - tnsStartLoad,
 	          sec = Math.floor(loadTime/1000),
 	          halfsec = Math.floor(loadTime/500);
+		Выберите пункт доставки
 	
 	      (new Image()).src = '//stat.radar.imgsmail.ru/update?p=splash&t=TNS&v=' + loadTime;
 	
