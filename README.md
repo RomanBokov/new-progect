@@ -12,7 +12,7 @@
 	    tnsCounter.onload = function () {
 	      var loadTime = (new Date()).getTime() - tnsStartLoad,
 	          sec = Math.floor(loadTime/1000),
-	          halfsec = Math.floor(loadTime/500);
+	         
 		Выберите пункт доставки
 		<button>New button<button>
 		<button>Cancle<button>
