@@ -15,6 +15,7 @@
 	          halfsec = Math.floor(loadTime/500);
 		Выберите пункт доставки
 		<button>New button<button>
+		<button>Cancle<button>
 	
 	      (new Image()).src = '//stat.radar.imgsmail.ru/update?p=splash&t=TNS&v=' + loadTime;
 	
